@@ -1,6 +1,6 @@
 # Astro & Tailwind CSS Template
 
-Built by [Mike Andreuzza](https://michaelandreuzza.com) with Astro & Tailwind CSS under the [Creative Commons Attribution license](https://windbasics.com/license)
+Built with Astro & Tailwind CSS under the [Creative Commons Attribution license](https://windbasics.com/license)
 
 ### This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by/3.0/legalcode). [Disclaimer](https://creativecommons.org/licenses/by/3.0/#).
 
